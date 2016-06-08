@@ -1,0 +1,4 @@
+ers:
+    loading:
+        max-attempts: 7
+        parallel-actors: 9
