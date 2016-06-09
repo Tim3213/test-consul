@@ -2,4 +2,4 @@ ers:
     loading:
         enabled: false
         max-attempts: 7
-        parallel-actors: 10
+        parallel-actors: 11
