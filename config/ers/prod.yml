@@ -1,5 +1,5 @@
 ers:
     loading:
         enabled: true
-        max-attempts: 44
-        parallel-actors: 45
+        max-attempts: 50
+        parallel-actors: 46
