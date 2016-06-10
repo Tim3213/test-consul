@@ -1,0 +1,5 @@
+ers:
+    loading:
+        enabled: true
+        max-attempts: 3
+        parallel-actors: 3
